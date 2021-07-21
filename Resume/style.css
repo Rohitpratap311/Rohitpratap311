@@ -1,0 +1,52 @@
+
+body{
+    text-align: center;
+    background-color: #5175d83a;
+}
+hr{
+    margin : 0.1rem;
+    padding :0;
+}
+.box{
+    width: 60rem;
+    margin: 1rem auto;
+    background-color: white;
+    padding:10px;
+    border-radius: 1rem;
+    font-family: cursive;
+    line-height: 175%;
+}
+.section-name{
+    color:black;
+    margin: 10;
+    text-align: center;
+    text-decoration: underline;
+    font-family: serif;
+}
+
+.tables{
+    text-align:center;
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid black;
+    table-layout: fixed;
+}
+td,th{
+    border: 1px solid black;
+    padding: 5px;
+}
+.list{
+    text-align: left;
+}
+.email{
+    text-decoration-color: skyblue;
+}
+lastpara{
+    font-family: serif;
+}
+.h1{
+    margin-bottom: 5rem;
+}
+.a{
+    target:_blank;
+}
