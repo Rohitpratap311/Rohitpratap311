@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/rohitpratap311/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a> &nbsp;
+ 
+<a href="https://www.codechef.com/users/rohitpratap311" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="wanderersvice" height="30" width="30" /></a>&nbsp;
+<a href="https://www.hackerrank.com/rohitpratap311" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg"  height="30" width="30" /></a>&nbsp;
+<a href="https://codeforces.com/profile/rohitpratap311" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" height="30" width="30" /></a>&nbsp;
+<a href="https://www.leetcode.com/rohitpratap311" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg"  height="30" width="30" /></a>&nbsp;
+</p>
+
 <!--
 **Rohitpratap311/Rohitpratap311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
