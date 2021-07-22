@@ -12,7 +12,7 @@
 </p>
 
  <p align="center">📫 Reach me at <b><a href="mailto:rohitpratap311.singh@gmail.com">rohitpratap311.singh@gmail.com</a></b></p>
- <p align="center">📫 Reach me at <b><a href="https://rohitpratap311.github.io/Rohitpratap311/Resume/">RESUME</a></b></p>
+ <p align="center"><b><a href="https://rohitpratap311.github.io/Rohitpratap311/Resume/"><h3 align="center">RESUME</h2></a></b></p>
 
 
 <!--
