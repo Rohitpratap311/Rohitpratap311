@@ -1,7 +1,7 @@
 <h2 align="center">Hey there👋</h2>
 <h2 align="center">I'm Rohit</h2>
 <p align="center"> Harcourt Butler Technical University (HBTU) , Kanpur </p>
-<p align="center"> I am a <b>Competitive Programmer</b> and <b>Web Developer</b> </p>
+<p align="center"> I am a <b>Competitive Programmer</b> and <b>Software Developer</b> </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rohitpratap311/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a> &nbsp; 
