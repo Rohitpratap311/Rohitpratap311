@@ -12,7 +12,7 @@
 </p>
 
  <p align="center">📫 Reach me at <b><a href="mailto:rohitpratap311.singh@gmail.com">rohitpratap311.singh@gmail.com</a></b></p>
- <p align="center"><b><a href="https://rohitpratap311.github.io/Rohitpratap311/Resume/"><h3 align="center">RESUME</h2></a></b></p>
+ <p align="center"><b><a href="https://drive.google.com/file/d/1uPmw629i4dzVf-QH9JE52dqLzb-Sw5FT/view?usp=sharing"><h3 align="center">RESUME</h2></a></b></p>
 
 
 <!--
